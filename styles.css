@@ -13,7 +13,10 @@
 #box:hover{
   background-color: antiquewhite;
   cursor: pointer;
-  height: 500px;
-  width: 500px;
-  border-radius: 250px;
+  height: 1000px;
+  width: 1000px;
+  border-radius: 500px;
+}
+#box1{
+  background-image: url(https://www.slashfilm.com/img/gallery/one-piece-film-red-showcases-luffys-new-transformation-for-the-first-time/l-intro-1667316814.jpg);
 }
